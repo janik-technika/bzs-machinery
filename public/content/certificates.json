@@ -1,8 +1,68 @@
 [
   {
-    "id": "d928de0d-5857-44c1-b83e-c636afb59efa",
+    "id": "124c1591-d78e-49e6-a652-83c2158bf7e8",
     "label": "",
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770642108347_7f8047283f1a5bb1a1365390648d0784.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644313572_CSNEN3834220182021.jpg",
     "order": 1
+  },
+  {
+    "id": "ff7c5b6e-908b-4f13-9dd9-79012b949c3f",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644324216_CSNEN383420182021PRILOHA.jpg",
+    "order": 2
+  },
+  {
+    "id": "c23f8b10-cee6-4138-86cc-01ac2f5782c9",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644337746_CSNEN3834220182021AJ.jpg",
+    "order": 3
+  },
+  {
+    "id": "3f9a4b5b-49c2-4f5e-a7ec-40814fe3f183",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644348338_CSNEN383420182021PRILOHAAJ.jpg",
+    "order": 4
+  },
+  {
+    "id": "77a33ad8-da8e-4fec-a3df-ea79ae8c0c81",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644364839_ceskedrahystr1.jpg",
+    "order": 5
+  },
+  {
+    "id": "c67248dd-3f01-4c3e-9587-847eb4eb38aa",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644376099_ceskedrahystr2MALY.jpg",
+    "order": 6
+  },
+  {
+    "id": "0e416124-7478-417a-8c3f-c547a929f528",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644389897_EN150852.jpg",
+    "order": 7
+  },
+  {
+    "id": "c1d00463-e0e6-4b0e-ab78-960acd35cb60",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644403497_EN150852PRILOHA.jpg",
+    "order": 8
+  },
+  {
+    "id": "fc8a1d1a-32c9-47aa-9eec-f05a90e6d451",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644417846_certifikatsk200192021str1.jpg",
+    "order": 9
+  },
+  {
+    "id": "33157bf8-c120-4b02-bede-ff699c821cdc",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644430618_certifikatsk20192021str2.jpg",
+    "order": 10
+  },
+  {
+    "id": "a568befc-e78f-4c26-89b4-b64e3ab1d376",
+    "label": "",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1770644443831_CDV95520192022.jpg",
+    "order": 11
   }
 ]
