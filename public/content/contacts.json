@@ -41,5 +41,14 @@
     "street": "Mlýnská 679/14",
     "city": "743 01 Bílovec",
     "gps": "49.7521267N, 18.0197517E"
-  }
+  },
+  "sales": [
+    {
+      "id": "7d406531-ea51-48a1-adae-4ca6509b23bb",
+      "name": "",
+      "role": "",
+      "email": "obchod@bzs-machinery.cz",
+      "section": "sales"
+    }
+  ]
 }
