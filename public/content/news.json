@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "7cf51a45-a49e-4efe-b630-9123fc86c1c1",
+    "title": "test",
+    "excerpt": "test",
+    "date": "2026-02-09",
+    "published": true,
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/news/1770642092556_7f8047283f1a5bb1a1365390648d0784.jpg"
+  }
+]
