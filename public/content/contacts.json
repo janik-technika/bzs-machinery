@@ -1,0 +1,45 @@
+{
+  "leadership": [
+    {
+      "id": "1",
+      "name": "Petr Nezdařil",
+      "role": "ředitel společnosti",
+      "phone": "+420 737 286 085",
+      "email": "nezdaril.p@bzs-machinery.cz",
+      "section": "leadership"
+    },
+    {
+      "id": "2",
+      "name": "Petr Biener",
+      "role": "jednatel společnosti",
+      "email": "biener.p@bzs-machinery.cz",
+      "section": "leadership"
+    },
+    {
+      "id": "3",
+      "name": "Lukáš Biener",
+      "role": "jednatel společnosti",
+      "phone": "+420 777 811 845",
+      "email": "biener.l@bzs-machinery.cz",
+      "section": "leadership"
+    }
+  ],
+  "economics": [
+    {
+      "id": "4",
+      "name": "Lenka Bienerová",
+      "role": "ekonomka",
+      "phone": "+420 606 713 743",
+      "email": "bienerova.l@bzs-machinery.cz",
+      "section": "economics"
+    }
+  ],
+  "company": {
+    "ico": "27857212",
+    "dic": "CZ27857212",
+    "name": "BZS MACHINERY s.r.o.",
+    "street": "Mlýnská 679/14",
+    "city": "743 01 Bílovec",
+    "gps": "49.7521267N, 18.0197517E"
+  }
+}
