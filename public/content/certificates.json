@@ -57,24 +57,24 @@
     "id": "b9527c34-d2f5-44e8-99b1-c2834db8ecb3",
     "label": "",
     "imageUrl": "",
+    "order": 13
+  },
+  {
+    "id": "c3ceb485-0257-4599-939b-2f1a32db8019",
+    "label": "politika integrovaného managementu",
+    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1774256706530_sharp_tiscali.cz_20260323_101645.tif",
     "order": 12
   },
   {
     "id": "efe5da50-0e3b-4c7d-8b9b-c31b545be88d",
     "label": "",
     "imageUrl": "",
-    "order": 13
+    "order": 14
   },
   {
     "id": "b6884315-c533-4242-b088-c6daae211271",
     "label": "",
     "imageUrl": "",
     "order": 15
-  },
-  {
-    "id": "c3ceb485-0257-4599-939b-2f1a32db8019",
-    "label": "politika integrovaného managementu",
-    "imageUrl": "https://raw.githubusercontent.com/janik-technika/bzs-machinery/main/public/content/uploads/certificates/1774256561522_sharp_tiscali.cz_20260323_101338.pdf",
-    "order": 14
   }
 ]
